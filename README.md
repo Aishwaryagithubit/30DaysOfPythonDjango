@@ -10,7 +10,7 @@ This repository documents my 30 day Python and Django learning journey, culminat
 
 What You’ll Find
 
-Day-wise Learning (Day01 → Day30):
+Day wise Learning (Day01 → Day30):
 Each folder contains:
 
 notes.md → Key concepts learned
