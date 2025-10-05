@@ -1,0 +1,26 @@
+[
+    {
+        "type": "Income",
+        "amount": 900000.0,
+        "description": "Salary",
+        "date": "2025-10-05"
+    },
+    {
+        "type": "Expense",
+        "amount": 700.0,
+        "description": "chocobutter",
+        "date": "2025-10-05"
+    },
+    {
+        "type": "Income",
+        "amount": 90000000.0,
+        "description": "Business",
+        "date": "2025-10-05"
+    },
+    {
+        "type": "Expense",
+        "amount": 7000.0,
+        "description": "food",
+        "date": "2025-10-05"
+    }
+]
