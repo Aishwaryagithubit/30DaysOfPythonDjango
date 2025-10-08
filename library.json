@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "id": "3273",
+            "title": "Atomic Habits",
+            "author": "James",
+            "borrowed": false
+        }
+    ],
+    "members": [
+        {
+            "name": "Aishwarya Sah",
+            "borrowed": []
+        }
+    ]
+}
