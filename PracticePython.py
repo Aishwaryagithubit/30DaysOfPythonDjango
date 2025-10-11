@@ -1,7 +1,7 @@
 import pandas as pd
 #create dataframe
 data = { 
-    'Name': ['Aishwarya', 'Aayusha', 'Gaurav', 'Radha'],
+    'Name': ['Aishwarya', 'Aayusha', 'Gaurav', 'Radha',"Mintu"],
     'Age': [22, 23, 20, 16],
     'Salary': [90000, 70000, 65000, 100000]
 }
@@ -83,4 +83,5 @@ print(df['Age'].value_counts(), "\n")
 #Group by Age and compute mean Salary for each group
 print("Mean Salary by Age:")
 print(df.groupby('Age')['Salary'].mean())
+
 
