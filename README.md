@@ -13,7 +13,7 @@ What You’ll Find
 Day wise Learning (Day01 → Day30):
 Each folder contains:
 
-notes.md → Key concepts learned
+notes.md → Key concepts 
 
 examples.py → Mini coding exercises
 
