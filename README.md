@@ -1,5 +1,4 @@
 **30DaysOfPythonDjango**
-
 Author: Aishwarya Sah
 Course: SelfLearning Challenge
 Duration: 30 Days
