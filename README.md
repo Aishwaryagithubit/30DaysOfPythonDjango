@@ -26,7 +26,6 @@ Python and Django fundamentals
 
 Object-Oriented Programming (OOP)
 
-CRUD operations and REST API endpoints
 
 Templates, forms, and database integration
 
