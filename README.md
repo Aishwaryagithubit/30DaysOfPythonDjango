@@ -17,6 +17,7 @@ Mini coding exercise
 
 README.md → Daily reflections and challenges
 
+
 FinalProject:
 A complete Django web application demonstrating:
 
