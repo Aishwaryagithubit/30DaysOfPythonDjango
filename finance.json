@@ -7,7 +7,7 @@
     },
     {
         "type": "Expense",
-        "amount": 700.0,
+        "amount": 800.0,
         "description": "chocobutter",
         "date": "2025-10-05"
     },
@@ -25,3 +25,4 @@
     }
 
 ]
+
