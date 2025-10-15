@@ -1,7 +1,7 @@
 [
     {
         "type": "Income",
-        "amount": 900000.0,
+        "amount": 9800000.0,
         "description": "Salary",
         "date": "2025-10-05"
     },
@@ -23,4 +23,5 @@
         "description": "food",
         "date": "2025-10-05"
     }
+
 ]
