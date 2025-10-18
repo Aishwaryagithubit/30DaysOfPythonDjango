@@ -22,7 +22,7 @@ def load_data():
     except FileNotFoundError:
         return {}
     except json.JSONDecodeError:
-        print("Data file corrupted or empty")
+        print("Data file is corrupted or empty")
         return {}
 
 # Save attendance to file
@@ -123,3 +123,4 @@ def main():
 
 
 main()
+
