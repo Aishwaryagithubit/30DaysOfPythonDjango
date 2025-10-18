@@ -164,7 +164,7 @@ def main():
             library.add_book(Book(title, author))
 
         elif choice == "2":
-            name = input("Enter member name: ")
+            name = input("Enter a member name: ")
             library.add_member(Member(name))
 
         elif choice == "3":
@@ -188,3 +188,4 @@ def main():
 
 
 main()
+
