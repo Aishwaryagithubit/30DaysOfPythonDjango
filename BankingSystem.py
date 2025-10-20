@@ -8,7 +8,7 @@ def check_balance():
 def deposit():
     global balance
     try:
-        amount = float(input("Enter amount to deposit: "))
+        amount = float(input("Enter an amount to deposit: "))
         if amount > 0:
             balance += amount
             print(f"Deposited ${amount}. New balance: ${balance}")
@@ -53,5 +53,6 @@ while True:
         break
     else:
         print("Invalid choice, please select 1-4")
+
 
 
