@@ -15,11 +15,12 @@ q = np.array([4,6,3])
 
 print("Addition:", p + q)     
 print("Multiplication:", p * q) 
-print("Square:", p**2)       
+print("Square: ", p**2)       
 
 # Aggregate functions
 print("Sum:", np.sum(p))      
 print("Mean:", np.mean(q))    
 print("Max:", np.max(q))      
+
 
 
