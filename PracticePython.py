@@ -44,7 +44,7 @@ print("After Adding Missing Value:")
 print(df, "\n")
 
 #Detect missing values using isnull()
-print("Missing Values Detected:")
+print("Missing Values Detected: ")
 print(df.isnull(), "\n")
 
 #Fill missing values with mean of the column
@@ -83,6 +83,7 @@ print(df['Age'].value_counts(), "\n")
 #Group by Age and compute mean Salary for each group
 print("Mean Salary by Age:")
 print(df.groupby('Age')['Salary'].mean())
+
 
 
 
