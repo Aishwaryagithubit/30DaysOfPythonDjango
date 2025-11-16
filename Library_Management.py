@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 # Base Class 
 class Book:
     def __init__(self, title, author):
-        self.book_id = str(random.randint(1000, 99999))  
+        self.book_id = str(random.randint(1000, 9999))  
         self.title = title
         self.author = author
         self.is_borrowed = False
@@ -188,5 +188,6 @@ def main():
 
 
 main()
+
 
 
