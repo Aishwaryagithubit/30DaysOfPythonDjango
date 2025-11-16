@@ -67,6 +67,7 @@ print(df_sorted, "\n")
 print("Rows where Age > 30:")
 print(df[df['Age'] > 30], "\n")
 
+
 #Filter rows where Salary < 60000
 print("Rows where Salary < 60000:")
 print(df[df['Salary'] < 60000], "\n")
@@ -83,6 +84,7 @@ print(df['Age'].value_counts(), "\n")
 #Group by Age and compute mean Salary for each group
 print("Mean Salary by Age:")
 print(df.groupby('Age')['Salary'].mean())
+
 
 
 
