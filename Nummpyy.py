@@ -4,7 +4,7 @@ print("element at index 2:", arr[2])
 print("slice index 1 to 3:", arr[1:4])
 
 # 2D slicing
-arr2 = np.array([[1,2,3],[4,5,6],[7,8,7]])
+arr2 = np.array([[1,2,3],[4,5,6],[7,8,9]])
 print("second row:", arr2[1])
 print("element at row 2, col 3:", arr2[1,2])
 print("all rows, col 2:", arr2[:,1])
@@ -21,6 +21,7 @@ print("Square: ", p**2)
 print("Sum: ", np.sum(p))      
 print("Mean:", np.mean(q))    
 print("Max:", np.max(q))      
+
 
 
 
