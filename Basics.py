@@ -2,7 +2,7 @@
 print("Learning Utsav2025")
 
 #variables and data types
-num1 = 8
+num1 = 7
 num2 = 2.33
 name = "Aishwarya"
 
