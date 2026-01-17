@@ -15,7 +15,7 @@ def deposit():
         else:
             print("Please enter a positive amount.")
     except ValueError:
-        print("Invalid input,Enter a number.")
+        print("Invalid input,Enter a number")
 
 # Function to withdraw money
 def withdraw():
@@ -53,6 +53,7 @@ while True:
         break
     else:
         print("Invalid choice, please select 1-4")
+
 
 
 
