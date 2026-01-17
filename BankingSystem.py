@@ -1,6 +1,5 @@
 # Simple Banking System
 balance = 0
-
 def check_balance():
     print(f"Your current balance is: ${balance}")
 
@@ -53,6 +52,7 @@ while True:
         break
     else:
         print("Invalid choice, please select 1-4")
+
 
 
 
